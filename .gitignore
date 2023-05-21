@@ -1,2 +1,4 @@
-data/*
+data/hfc_pubEpitopes.csv
+data/VRC.csv
+data/.ipynb_checkpoints/*
 Manuscript Analyses/.ipynb_checkpoints/*
