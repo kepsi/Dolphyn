@@ -10,6 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 def balance_DS(X, y, random_state=42):
     wildtypeIDs = set([item[0] for item in X.index.str.split("_")])
     random.seed(random_state)
+    random.seed(10)
     size_smaller_group = y.value_counts().min()
     pos_IDs = set(y[y==1].index)
     neg_IDs = set(y[y==0].index)
