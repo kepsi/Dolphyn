@@ -1,0 +1,9 @@
+"","sublibrary","measure","score"
+"1","dolphyn","Recall",0.6610348468849
+"2","pepsyn","Recall",0.91804979253112
+"3","dolphyn","Precision",0.21049092131809
+"4","pepsyn","Precision",0.296283896886508
+"5","dolphyn","F1",0.319306299413415
+"6","pepsyn","F1",0.447987851176917
+"7","dolphyn","Accuracy",0.978152498669832
+"8","pepsyn","Accuracy",0.987620053129896

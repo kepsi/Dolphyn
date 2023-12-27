@@ -1,0 +1,16 @@
+"","subset","type","number","normalized"
+"1","All","Phages",142810,1
+"2","high quality","Phages",41427,0.290084727960227
+"3","HQ + 1 s","Phages",38848,0.272025768503606
+"4","HQ + 1NA","Phages",7614,0.0533155941460682
+"5","HQ + 50 NA","Phages",112,0.000784258805405784
+"6","All","Proteins",7581279,1
+"7","high quality","Proteins",3353050,0.442280253767207
+"8","HQ + 1 s","Proteins",3121881,0.41178816925218
+"9","HQ + 1NA","Proteins",588783,0.0776627532109028
+"10","HQ + 50 NA","Proteins",8023,0.00105826470705009
+"11","All","ProteinClusters",309842,1
+"12","high quality","ProteinClusters",190346,0.614332466224721
+"13","HQ + 1 s","ProteinClusters",185215,0.597772413036322
+"14","HQ + 1NA","ProteinClusters",84306,0.272093518632077
+"15","HQ + 50 NA","ProteinClusters",3354,0.0108248720315516
