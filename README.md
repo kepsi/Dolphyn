@@ -2,7 +2,7 @@
 
 This repository contains the software (Python package) and analysis scripts described in:
 
-- Liebhoff, AM. et al. **Efficient antibody profiling of the human gut phageome with Dolphyn**. *In Submission* (2023).
+- Liebhoff, AM. et al. **Efficient antibody profiling of the human gut phageome with Dolphyn**. *Nature communications* (2024).
 
 The `Manuscript Analyses` folder contains the collection of scripts run for obtaining the plots in the figures. 
 
